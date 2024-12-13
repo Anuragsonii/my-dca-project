@@ -1,0 +1,34 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background-image: url('https://via.placeholder.com/1600x600'); /* Add a background image */
+    background-size: cover;
+    background-position: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+footer {
+    background-color: #333;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+.about {
+    background-color: #f8f9fa;
+}
+
+.contact input, .contact textarea {
+    border-radius: 0.25rem;
+}
